@@ -1,6 +1,6 @@
 # fullstack-flights-app
 React | Node.js | MySQL - Deployed on Heroku + Github Pages<br>
-Link: https://tamircode.github.io/fullstack-flights-app/
+Link: https://fullstack-flights-app.netlify.app/
 
 - React, MUI, framer-motion, Node.js, MySQL
 - login/register
