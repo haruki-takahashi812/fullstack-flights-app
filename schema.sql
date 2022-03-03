@@ -1,3 +1,4 @@
+-- MariaDB v10 +
 DROP DATABASE IF EXISTS  ts_project3_flights;
 CREATE DATABASE ts_project3_flights;
 USE ts_project3_flights;
